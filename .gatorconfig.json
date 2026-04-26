@@ -1,0 +1,3 @@
+{
+  "db_url": "postgres://atomcat:lulatsch12@localhost:5432/gator?sslmode=disable"
+}
